@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "425847429767",
+    "project_id": "ioschickenpoints",
+    "storage_bucket": "ioschickenpoints.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425847429767:ios:5dfd155897eb9ce98c3622",
+        "android_client_info": {
+          "package_name": "com.chickpoi.pointscountinghelp"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwA977oG4okjQImzD_1awovBMA7Fx46_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
